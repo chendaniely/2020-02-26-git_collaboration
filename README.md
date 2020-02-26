@@ -5,4 +5,4 @@ Git training for collaboration
   - You only really need to do this once, just like the `init` command
 - `branch <name>`: create a branch called <name>
   - `checkout <name>` or `switch <name>`: to move `HEAD` (i.e., switch) to that branch
-
+  - `push <branch>` `pull <branch>`: we need to be more mindful which branch we want to push/pull, and not automaticall type `master`
