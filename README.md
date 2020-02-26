@@ -20,3 +20,6 @@ Update our local computer
 - update your system with `git pull origin master`
 - `fetch --prune --all`: to clean up all your references on all your remotes
 - `branch -d <branch>`: will delete a branch
+
+- `merge <branch>`: incorporates `<branch>` into your current branch
+
