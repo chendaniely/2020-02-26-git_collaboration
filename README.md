@@ -1,5 +1,4 @@
-# 2020-02-26-git_collaboration
-Git training for collaboration
+# 2020-02-26 Git training for collaboration
 
 - `clone`: "downloading" a repository from a remote to our local computer
   - You only really need to do this once, just like the `init` command
@@ -22,4 +21,6 @@ Update our local computer
 - `branch -d <branch>`: will delete a branch
 
 - `merge <branch>`: incorporates `<branch>` into your current branch
+
+- `resbase` and `cherry-pick`: are ways to re-write history or incorate other commits into current history
 
