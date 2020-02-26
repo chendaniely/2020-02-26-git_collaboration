@@ -22,5 +22,5 @@ Update our local computer
 
 - `merge <branch>`: incorporates `<branch>` into your current branch
 
-- `resbase` and `cherry-pick`: are ways to re-write history or incorate other commits into current history
+- `rebase` and `cherry-pick`: are ways to re-write history or incorate other commits into current history
 
