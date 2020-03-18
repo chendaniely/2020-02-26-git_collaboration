@@ -13,7 +13,7 @@
   - When you're ready, click the greeen "merge pull request" button
   - don't forget to delete your branch
 
-Update our local computer
+## Update our local computer
 
 - Make sure you are on the master branch
 - update your system with `git pull origin master`
