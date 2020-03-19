@@ -13,7 +13,7 @@
   - When you're ready, click the greeen "merge pull request" button
   - don't forget to delete your branch
 
-Update our local computer
+## Update our local computer
 
 - Make sure you are on the master branch
 - update your system with `git pull origin master`
@@ -24,3 +24,8 @@ Update our local computer
 
 - `rebase` and `cherry-pick`: are ways to re-write history or incorate other commits into current history
 
+- There are different collaboration workflows
+  - https://www.atlassian.com/git/tutorials/comparing-workflows
+  - direct collaborator
+  - branching
+  - forking 
