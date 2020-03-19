@@ -24,3 +24,8 @@
 
 - `rebase` and `cherry-pick`: are ways to re-write history or incorate other commits into current history
 
+- There are different collaboration workflows
+  - https://www.atlassian.com/git/tutorials/comparing-workflows
+  - direct collaborator
+  - branching
+  - forking 
